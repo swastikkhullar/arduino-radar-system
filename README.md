@@ -41,4 +41,9 @@ This project simulates a radar system using an ultrasonic sensor mounted on a se
   - LED and buzzer turn OFF
   - Green LED turns ON
   - Servo resumes scanning
-    ## 
+    ## Code
+    [View Arduino Code](final.ino)
+    ## Circuit Diagram
+    [Circuit Diagram (PDF)](CircuitDiagram.pdf)
+    ## Working Video
+    [View Video]()
